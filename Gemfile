@@ -8,6 +8,7 @@ gem 'rails', '6.1.4.1'
 gem 'bootsnap'
 gem 'pg'
 gem 'puma'
+gem 'vite_rails'
 
 group :development, :test do
   gem 'byebug'
