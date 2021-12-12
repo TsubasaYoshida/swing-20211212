@@ -153,16 +153,15 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
-  bootsnap (>= 1.4.4)
+  bootsnap
   byebug
-  listen (~> 3.3)
-  pg (~> 1.1)
-  puma (~> 5.0)
-  rack-mini-profiler (~> 2.0)
-  rails (~> 6.1.4, >= 6.1.4.1)
+  listen
+  pg
+  puma
+  rack-mini-profiler
+  rails (= 6.1.4.1)
   spring
-  tzinfo-data
-  web-console (>= 4.1.0)
+  web-console
 
 RUBY VERSION
    ruby 3.0.3p157
